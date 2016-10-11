@@ -2,7 +2,7 @@
 
 ## Assignments
 - [X] [Assignment: Array Worksheet](assignments/array-worksheet.md)
-- [ ] [Assignment: Account Generator](assignments/account-generator.md)
+- [X] [Assignment: Account Generator](assignments/mcalpine-account-generator.rb)
 - [X] [Assignment: Hash Worksheet](assignments/hash-worksheet.md)
 
 ## Objectives
