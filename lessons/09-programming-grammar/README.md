@@ -25,6 +25,8 @@
     + i.e. { A: 2, B: 3, C: 1}
   + *Range* - A set of values with a beginning and an end
     + i.e (2..6)
+    + `..` two dots includes the last value
+    + `...` three dots excludes the last value
 **TIP**: To determine the type of an object you can use `.class`
 + **Comments** — Comments can be helpful to leave instructions and notes for the people that will be using or modifying your code later. To create a comment, start the line with a (#).
 + **Truncate** — When the decimal is dropped, and the number is rounded down.
